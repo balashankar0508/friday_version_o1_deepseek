@@ -10,5 +10,6 @@ This is a **100% offline AI voice assistant** that:
 
 ---
 create venv first and activate it
+
  python -m venv venv           
  venv\Scripts\activate
