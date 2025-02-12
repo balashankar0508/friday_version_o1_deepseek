@@ -9,5 +9,6 @@ This is a **100% offline AI voice assistant** that:
 ✅ **Runs completely offline (No API required!)**  
 
 ---
-
-## 📂 Project Structure
+create venv first and activate it
+ python -m venv venv           
+ venv\Scripts\activate
