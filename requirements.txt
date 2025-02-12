@@ -1,0 +1,10 @@
+speechrecognition
+whisper
+pydub
+TTS
+ollama
+pyaudio
+numpy
+simpleaudio
+pydub
+openai-whisper
